@@ -8,7 +8,6 @@ public class l1941 {
         for (char c : s.toCharArray()) {
             freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
         }
-
         int targetFreq = freqMap.get(s.charAt(0));
 
 
