@@ -1,3 +1,5 @@
+import java.util.Queue;
+
 public class l680 {
     public static void main(String[] args) {
         boolean ispalin=false;
