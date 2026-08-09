@@ -22,7 +22,8 @@ public class l2605 {
         int min2 = Arrays.stream(nums2).min().getAsInt();
 
 
-        System.out.println(Math.min(min1, min2) * 10 + Math.max(min1, min2));
+        System.out.println(Math.min(min1, min2) * 10 + Math.max(min1, min2))
+        ;
     }
 }
 //Input: nums1 = [4,1,3], nums2 = [5,7]
